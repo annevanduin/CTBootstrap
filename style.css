@@ -16,11 +16,10 @@
 
 #artikel
 {
-    background-color: rgb(231, 231, 231);
-    height: 160px;
+    background-color: rgb(255, 255, 255);
+    height: 540px;
     border-style: solid;   
     text-align: center;
-    font-weight: bold;
     font-family:bookman
 }
 
