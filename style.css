@@ -2,15 +2,6 @@
 {
     background-color:bisque;
     height; 20%;
-    text-align: center;
-    font-family:bookman
-}
-
-#slider
-{
-    background-color: rgb(212, 233, 178);
-    height: 60px;
-    text-align: center;
     font-family:bookman
 }
 
@@ -18,14 +9,10 @@
 {
     background-color: rgb(255, 255, 255);
     height: 540px;
-    border-style: solid;   
-    text-align: center;
-    font-family:bookman
-}
-
-#artikel2
-{
-    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;  
+    border-color: rgb(231, 231, 231);
     font-family:bookman
 }
 
